@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AndonisPavlidis
 - 👀 I’m interested in machine learning, advanced statistics and data engineering
-- 🌱 I’m currently learning machine learning
 - 📫 https://www.linkedin.com/in/apavlidis/
 
 <!---
